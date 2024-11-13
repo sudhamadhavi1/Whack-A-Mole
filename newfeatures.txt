@@ -1,0 +1,5 @@
+- Adding start and reset buttons
+- Incrementing the score only when the user clicks on the tile once (instead of allowing user to click on the same tile many times and obtaining more scores)
+-  Ensuring that the mole is generated on a different tile on every interval
+
+- Adding a Newuser & LeaderBoard
